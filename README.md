@@ -1,4 +1,4 @@
-##Employee Salary Prediction
+Employee Salary Prediction
 
  Project Description
 This project aims to predict an employee's salary bracket (<= or >$50K) using a RandomForest machine learning model. It processes employee characteristics to learn patterns and make predictions. The model achieved 85.61% accuracy on the test set.
