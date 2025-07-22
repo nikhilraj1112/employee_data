@@ -1,4 +1,4 @@
-Employee Salary Prediction
+##Employee Salary Prediction
 
  Project Description
 This project aims to predict an employee's salary bracket (<= or >$50K) using a RandomForest machine learning model. It processes employee characteristics to learn patterns and make predictions. The model achieved 85.61% accuracy on the test set.
@@ -71,11 +71,4 @@ The following files will also be saved in your project directory:
 * `label_encoders.pkl`: The label encoders used for transforming categorical features.
 * `confusion_matrix.png`: An image of the confusion matrix.
 
- Files in this Repository
-* `salary_prediction_model.py`: The main Python script for salary prediction.
-* `adult 3.csv`: The dataset used for training and testing the model.
-* `Project template.pptx`: The presentation template for this project.
-* `confusion_matrix.png`: The generated confusion matrix visualization.
-* `salary_prediction_model.pkl`: The saved trained machine learning model.
-* `label_encoders.pkl`: The saved label encoders.
-* `README.md`: This file.
+
